@@ -1,5 +1,5 @@
-### CTS 120 Workspace/Projects
+# CTS 120 Workspace/Projects
 
 ## Week 1
 
-# Activity 1
+### Activity 1
