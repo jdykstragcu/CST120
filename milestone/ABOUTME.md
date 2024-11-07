@@ -1,3 +1,3 @@
 # Joshua Dykstra Home Page!
-##[Hobbies](/milestone/hobbies.html)
-##[Contact](/milestone/contactme.html)
+## [Hobbies](/milestone/HOBBIES.HTML)
+## [Contact](/milestone/CONTACTME.html)
