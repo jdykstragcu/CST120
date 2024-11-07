@@ -15,7 +15,6 @@
 ## Week 1
 ## [Week 1 Sitemap](/milestone/sitemap.md)
 ## [Sitemap HTML](/milestone/drawioexample.html)
-## [Sitemap HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/milestone/drawioexample.html)
-## [HTML Preview]
+## Week 2
 ## [Week 2: About Me Page Made w/2 Links](/milestone/ABOUTME.html)
 ### [Week 2 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/milestone/ABOUTME.html)
