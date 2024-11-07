@@ -9,4 +9,4 @@
 ### [Activity 1 Part 2 Go-Back HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/activity1/part2/page2.html)
 # Week 2
 ## [Activity 2 (Links added to media)](/activity2/index.html)
-### [Activity 2 (Links added to media)k HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/activity2/index.html)
+### [Activity 2 (Links added to media) HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/activity2/index.html)
