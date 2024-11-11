@@ -14,8 +14,8 @@
 ### [Activity 2 (Links added to media) HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/activity2/index.html)
 
 # Week 3
-## [Activity 3 ]
-### [Activity 3 HTML Preview]
+## [Activity 3 (CSS Styles added to index.html, media.html, tando.htm)](/activity3/topic%203/index.html)
+### [Activity 3 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/activity3/topic%203/index.html)
 
 # Milestones
 ## Week 1
@@ -24,3 +24,6 @@
 ## Week 2
 ## [Week 2: About Me Page Made w/2 Links](/milestone/ABOUTME.md)
 ### [Week 2 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/milestone/ABOUTME.html)
+## Week 3
+## [Week 3 Events Page w/CSS Elements](/milestone/EVENTS.html)
+### [Week 3 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/milestone/EVENTS.html)
