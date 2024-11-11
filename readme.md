@@ -27,3 +27,4 @@
 ## Week 3
 ## [Week 3 Events Page w/CSS Elements](/milestone/EVENTS.html)
 ### [Week 3 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/milestone/EVENTS.html)
+### [Week 3 Video of Content Learned](https://drive.google.com/file/d/10LtD7vBFxO8Z4wCw43KM9rthym0Koj89/view?usp=sharing)
