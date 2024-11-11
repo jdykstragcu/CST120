@@ -1,0 +1,77 @@
+<!--  mp3 was provided by:  https://pixabay.com/music/search/test/ -->
+<!--  mp4 was provided by:   -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="./css/mysite.css" />
+  
+  <style>
+      @keyframes blinker { 50% { opacity: 0;} }
+      .blink_me_alarm { animation: blinker 2s step-start infinite; color: red; }
+
+      .div1 { width: 300px; height: 25px; border: 1px solid #4f2fb6; transition: transform 2s; text-align: center;}
+      .div1:hover { width: 300px; height: 25px; transform: rotate(360deg); }
+  </style>
+    
+  <title>Video and Audio Media</title>
+</head>
+
+<body>
+	<div align="center">
+		<h1>Video and Audio Media</h1>	
+		<iframe width="560" height="315"
+			src="https://www.youtube.com/embed/JdVLnLKC-pk?si=JDgQR2468C5aehig"
+			title="GCU Doctrinal Statement" frameborder="0"
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			allowfullscreen></iframe>
+		<h4 class="blink_me_alarm">Grand Canyon University Doctrinal Statement</h4>
+
+		<video width="300" height="200" autoplay muted loop>
+			<source src="./media/sample.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+
+		<br><br>
+		
+		<h4 class="blink_me_alarm">Student Support Video Clip</h4>
+		<!--
+		<svg width="400" height="20">
+			<text x="125" y="15" fill="red">
+				Student Support Video Clip
+				<animate attributeType="CSS" attributeName="opacity" values="1;0;1"
+				dur="3s" repeatCount="indefinite" />
+			</text>
+		</svg>
+		-->
+
+		<br><br>
+
+		<audio controls>
+			<source src="./media/sample.mp3" type="audio/mp3">
+			Your Browser does not support the audio tag.
+		</audio>
+
+		<br><br>
+		
+		<h4 class="blink_me_alarm">Student Support Audio Clip</h4>
+		<!--
+		<svg width="400" height="20">
+			<text x="125" y="15" fill="red">
+				Student Support Audio Clip
+				<animate attributeType="CSS" attributeName="opacity" values="0;1;0"
+				dur="3s" repeatCount="indefinite" />
+			</text>
+		</svg>
+		-->
+		
+		<br><br>
+		
+		<div class="div1" >GCU is a great university.</div>
+		<a href="./index.html">Back to Main Page</a>
+	</div>
+</body>
+</html>
