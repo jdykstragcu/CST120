@@ -22,9 +22,9 @@
 ## [Week 1 Sitemap](/cst120/milestone/sitemap.md)
 ## [Sitemap HTML](/cst120/milestone/drawioexample.html)
 ## Week 2
-## [Week 2: About Me Page Made w/2 Links](/cst120/milestone/ABOUTME.md)
+## [Week 2: About Me Page Made w/2 Links](/cst120/milestones/milestone/ABOUTME.md)
 ### [Week 2 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/cst120/milestones/milestone/ABOUTME.html)
 ## Week 3
-## [Week 3 Events Page w/CSS Elements](/cst120/milestone/EVENTS.html)
-### [Week 3 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/cst120/milestones/milestone/milestone/EVENTS.html)
+## [Week 3 Events Page w/CSS Elements](/cst120/milestones/milestone/EVENTS.html)
+### [Week 3 HTML Preview](http://htmlpreview.github.io/?https://github.com/jdykstragcu/CST120/blob/main/cst120/milestones/milestone/EVENTS.html)
 ### [Week 3 Video of Content Learned](https://drive.google.com/file/d/10LtD7vBFxO8Z4wCw43KM9rthym0Koj89/view?usp=sharing)
